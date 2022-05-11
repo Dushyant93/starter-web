@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 
 #Description
 This is sample dscription
+
+#Community
+Join the newsletter
+
+#Trial
+This is sample trial
