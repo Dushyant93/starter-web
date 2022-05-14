@@ -17,3 +17,5 @@ Join the newsletter
 
 #Trial
 This is sample trial
+#Copyright
+added copyright
